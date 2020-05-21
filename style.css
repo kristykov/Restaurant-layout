@@ -406,7 +406,7 @@ p.desc-height{
 }
 .starters{
     grid-area: c;
-    heght: 60%;
+    height: 60%;
     align-self: baseline;
     /* position: relative; */
 }
